@@ -58,3 +58,17 @@ This project combines a React Todo application with a powerful backend that leve
 
 - Build a frontend UI for direct conversational interaction.
 
+# Output
+
+--doc_dir = "jsSyntax.pdf"  Passed a pdf document that contains javascript information starting from scratch and go on to advanced concepts like OOP
+--code_base_dir = "./todoapp" A simple todo app with proper and meaningful comments for all functionalities covered in the project
+
+<img width="1347" height="558" alt="Screenshot 2025-07-19 at 12 29 04 PM" src="https://github.com/user-attachments/assets/3f803357-9472-412d-9b7f-e70e722ea0e2" />
+
+<img width="1345" height="421" alt="Screenshot 2025-07-19 at 12 28 44 PM" src="https://github.com/user-attachments/assets/3d136197-e776-4e2e-8c98-bdc48fa4ca9d" />
+
+<img width="1323" height="334" alt="Screenshot 2025-07-19 at 12 29 16 PM" src="https://github.com/user-attachments/assets/ab00b279-b134-4f14-9c9c-594c8318b070" />
+
+
+
+
